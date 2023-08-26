@@ -1,11 +1,12 @@
 ### 👋 Hi there, my name is Ednan
-- Currently, I'm exploring several languages, frameworks and all things about programing;
+- Currently, I'm exploring several languages, frameworks, and all things about programming.
 - My next goal is to deepen my knowledge about Swift and iOS (and maybe Android as well).
 
 ### 👨🏻‍💻 You can find me here
-![Github](https://img.shields.io/github/followers/ednanf?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/ednanf?style=social)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/000432372)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednanrff/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ednanf)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@ednan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ednanrff@gmail.com)
 
 ### 🥷🏻 Skills
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
