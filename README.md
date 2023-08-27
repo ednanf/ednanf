@@ -29,7 +29,7 @@
 
 ### :octocat: My GitHub stats
 
-![Ednan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ednanf&theme=gruvbox&show_icons=true)
+![Ednan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ednanf&theme=vision-friendly-dark&show_icons=true)
 <!--
 **ednanf/ednanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ednanf.ednanf)
