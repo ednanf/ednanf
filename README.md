@@ -3,7 +3,7 @@
 - My next goal is to deepen my knowledge about front-end development.
 
 ### 📒 My portfolio
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ednanf?tab=repositories&q=portfolio&type=&language=&sort=)
 
 ### 👨🏻‍💻 You can find me here
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednanrff/)
