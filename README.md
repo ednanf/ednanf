@@ -2,6 +2,9 @@
 - Currently, I'm exploring several languages, frameworks, and all things about programming.
 - My next goal is to deepen my knowledge about front-end development.
 
+### 📒 My portfolio
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 ### 👨🏻‍💻 You can find me here
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednanrff/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ednanf)
