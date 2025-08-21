@@ -4,7 +4,7 @@
 
 ### 📒 My portfolio
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ednanf?tab=repositories&q=portfolio&type=&language=&sort=)
+#### **[frizzera.dev](https://www.frizzera.dev/)**
 
 ### 👨🏻‍💻 You can find me here
 
