@@ -2,9 +2,7 @@
 - Currently, I'm exploring several languages, frameworks, and all things about programming.
 - My next goal is to deepen my knowledge about front-end and back-end development.
 
-### 📒 My portfolio
-
-#### **[frizzera.dev](https://www.frizzera.dev/)**
+### 📒 My portfolio: **[frizzera.dev](https://www.frizzera.dev/)**
 
 ### 👨🏻‍💻 You can find me here
 
