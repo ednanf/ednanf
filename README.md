@@ -7,8 +7,7 @@
 ### 👨🏻‍💻 You can find me here
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednanrff/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ednanf)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@ednan)
+[![CodeBerg](https://img.shields.io/badge/Codeberg-2185D0.svg?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/ednan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ednan@frizzera.dev)
 
 ### 🥷🏻 Skills
