@@ -7,6 +7,7 @@
 ### 👨🏻‍💻 You can find me here
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednanrff/)
+[![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)](https://git.frizzera.dev/ednan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ednan@frizzera.dev)
 
 ### 🥷🏻 Skills
