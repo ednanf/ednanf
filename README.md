@@ -1,6 +1,6 @@
 ### 👋 Hi there, my name is Ednan
-- Currently, I'm exploring several languages, frameworks, and all things about programming.
-- My next goal is to deepen my knowledge about front-end and back-end development.
+- Currently, I'm focusing on backend development with Go.
+- My next goal is to deepen my knowledge about back-end development.
 
 ### 📒 My portfolio: **[frizzera.dev](https://www.frizzera.dev/)**
 
